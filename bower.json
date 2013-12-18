@@ -1,0 +1,25 @@
+{
+  "name": "lsa",
+  "version": "0.0.0",
+  "authors": [
+    "jpic <jamespic@gmail.com>"
+  ],
+  "description": "Website of a friend",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.3",
+    "bootswatch": "~3.0.3+1",
+    "html5shiv": "~3.7.0",
+    "jquery": "~2.0.3",
+    "respond": "~1.4.1"
+  }
+}
